@@ -10,7 +10,7 @@ I create robots creatively, without using the building instructions. As a result
 
 ### Installing
 
-* Download the LEGO® Education SPIKE™ App[here](https://education.lego.com/en-au/downloads/spike-app/software/)
+* Download the LEGO® Education SPIKE™ App [here](https://education.lego.com/en-au/downloads/spike-app/software/)
 * In the first dropdown, select your device type
 * In the second dropdown, select "Download - 3.4.5"
 * Click on the black button that says "Download - 3.4.5" to download app
