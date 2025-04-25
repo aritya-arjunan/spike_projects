@@ -1,62 +1,20 @@
-# Project Title
-
-Simple overview of use/purpose.
+# Code and Pictures of Robots
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+I create robots creatively, without using the building instructions. As a result, some parts may be unstable when completed. This is perfectly normal and do not get stressed about it. I use the LEGO® Education SPIKE™ kit and app. 
 
-## Getting Started
+## Project List
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* The Digitaliser. This robot is fed paper with colours on it, and is able to detect the amount of raw red, green, and blue on it, as well as the light reflection and what colour does the colour sensor detect.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Download the LEGO® Education SPIKE™ App[here](https://education.lego.com/en-au/downloads/spike-app/software/)
+* In the first dropdown, select your device type
+* In the second dropdown, select "Download - 3.4.5"
+* Click on the black button that says "Download - 3.4.5" to download app
+* Download files and double click to open them
+## Author
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Aritya Arjunan 
